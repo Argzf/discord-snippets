@@ -9,6 +9,11 @@ const Authors = {
         id:"1083437693347827764",
         pfp:"HAPPY_ENDERMAN.png"
     },
+    gzf:{
+        name:"gzf",
+        id:"935053416877666304",
+        pfp:"gzf.png"
+    },
     ELLIE:{
         name:"Elysia.dev",
         id:"721746046543331449",
