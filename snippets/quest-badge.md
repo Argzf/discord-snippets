@@ -4,8 +4,6 @@ let questId = "12345"
 /* MINUTES OF STREAMING REQUIRED */
 let minutes = 15
 
-/* this snippet is a remaster of seif_2009's snippet */
-
 let sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 function updateProgress(number) {
