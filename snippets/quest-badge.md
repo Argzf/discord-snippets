@@ -1,5 +1,5 @@
-/* ID OF QUEST YOU WANT TO COMPLETE */
-let questId = "1227767407154561034"
+```/* ID OF QUEST YOU WANT TO COMPLETE */
+let questId = "12345"
 /* MINUTES OF STREAMING REQUIRED */
 let minutes = 15
 
@@ -162,4 +162,4 @@ function questSnippet() {
         }
     }
 }
-questSnippet()
+questSnippet()```
