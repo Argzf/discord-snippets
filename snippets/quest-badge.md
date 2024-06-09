@@ -1,4 +1,5 @@
-```/* ID OF QUEST YOU WANT TO COMPLETE */
+```js
+/* ID OF QUEST YOU WANT TO COMPLETE */
 let questId = "12345"
 /* MINUTES OF STREAMING REQUIRED */
 let minutes = 15
